@@ -18,6 +18,6 @@ def clean_population_data(file_path, output_path):
     print(f"Cleaned data saved to {output_path}")
 
 # Example usage
-input_file = r"C:\Users\prema\Desktop\Final Project-Carbon Emission\csv dataset\before clean datasets\annual-co-emissions-by-region.csv"
+input_file = r"your_file_path"
 output_file = "annual-co-emissions-by-region-new.csv"
 clean_population_data(input_file, output_file)

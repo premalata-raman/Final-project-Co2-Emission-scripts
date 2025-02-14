@@ -1,6 +1,7 @@
 # Final Project: CO2 Emission Data Cleaning and Merging
 
 This repository contains scripts and datasets related to the cleaning and merging of CO2 emission data. The primary goal of this project is to preprocess raw CO2 emission datasets to create a refined and consolidated dataset suitable for further analysis.
+https://lookerstudio.google.com/u/0/reporting/7025a6e2-fdbb-49df-bc24-0d1f5cacbeef/p
 
 ## Repository Structure
 
